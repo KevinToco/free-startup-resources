@@ -161,6 +161,7 @@ If you have another additional awesome free resource, please feel free to add it
 - Build an online course: A free course to help you build an online course.
 - MailCharts: A FREE email course to help you become a better marketer.
 - FirstSiteGuide: The beginner’s guide to successful blogging.
+- [**The startup Playbook**](https://www.slideshare.net/ToucanToco/startup-play-book-for-founders-amp-employees-written-by-toucans-founders-3): When to do the things that matter. Made by entrepreneurs for entrepreneurs & employees. 
 
 # Social Media + Community Management
 - [**WriteRack**](https://writerack.com/): The best way to tweetstorm.
